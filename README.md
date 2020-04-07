@@ -14,8 +14,8 @@
 
 1. Установить [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 1. Использовать браузер :
-    1. Google Chrome 
-    1. Mozilla Firefox
+    * Google Chrome 
+    * Mozilla Firefox
 
 
 ### Установка и запуск
